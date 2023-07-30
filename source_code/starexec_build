@@ -1,0 +1,8 @@
+python scripts/mk_make.py 
+ulimit -t 1200
+cd build
+make -j 8
+cp ./z3 ../bin
+cd ../bin
+chmod a+x ./z3
+chmod a+x ./starexec_run_default
