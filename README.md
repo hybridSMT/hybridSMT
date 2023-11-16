@@ -12,4 +12,5 @@ cd build
 make -j
 ```
 The z3 binary located in ``build'' file is the executable file of our solver.
-The log of raw data can be found in https://drive.google.com/file/d/1bXWVaqYa3lx9uaAjmgwYABP0OpHXcm_c/view?usp=drive_link
+
+The anonymous log of raw data can be found in https://drive.google.com/file/d/1bXWVaqYa3lx9uaAjmgwYABP0OpHXcm_c/view?usp=drive_link
